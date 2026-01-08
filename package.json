@@ -1,0 +1,16 @@
+{
+  "name": "chai_3_setup",
+  "version": "1.0.0",
+  "description": "Learning backend - \"how to setup a project \"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "chai",
+    "backend",
+    "setup"
+  ],
+  "author": "Abhishek Kumar",
+  "license": "ISC"
+}
